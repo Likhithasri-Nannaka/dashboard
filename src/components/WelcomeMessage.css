@@ -1,0 +1,14 @@
+.welcome-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #f8f9fc;
+  }
+  
+  .welcome-message h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  

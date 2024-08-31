@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  height: 100vh;
+  padding: 20px;
+  background-color: #f8f9fc;
+}
+
+@media (max-width: 767px) {
+  .App {
+    flex-direction: column;
+  }
+}
